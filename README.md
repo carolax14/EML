@@ -17,7 +17,7 @@ Microsoft a développé le format de courrier électronique (EML) pour se confor
 En raison de sa large adoption parmi les clients de messagerie, l’extension EML est devenu l'un des formats de message électronique les plus courants.
 
 
-# COMMENT OUVRIR UN FICHIER EML ?
+## COMMENT OUVRIR UN FICHIER EML ?
 
 ### NATURE DES FICHIERS
 
